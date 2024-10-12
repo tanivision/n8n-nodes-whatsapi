@@ -37,7 +37,7 @@
   "n8n": {
     "n8nNodesApiVersion": 1,
     "credentials": [
-      "dist/credentials/WhatsApi.credentials.js",
+      "dist/credentials/WhatsApi.credentials.js"
     ],
     "nodes": [
       "dist/nodes/WhatsApi/WhatsApiTrigger.node.js",
