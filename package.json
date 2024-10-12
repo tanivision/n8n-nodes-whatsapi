@@ -1,7 +1,7 @@
 {
   "name": "n8n-nodes-whatsapi",
   "version": "0.1.0",
-  "description": "",
+  "description": "Connect with WhatApp HTTP API",
   "keywords": [
     "n8n-community-node-package"
   ],
