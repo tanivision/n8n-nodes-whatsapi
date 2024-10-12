@@ -1,0 +1,5 @@
+docs: Update documentation to include conventional commit messages
+
+- Update documentation to include conventional commit messages
+- Add list of allowed commit types with descriptions
+- Add list of allowed commit scopes and commit formatting examples

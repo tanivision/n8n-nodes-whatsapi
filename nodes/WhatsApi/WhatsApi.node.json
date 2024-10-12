@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-whatsapi.whatsApi",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Whatsapp"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/tanivision/whatsapi"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/tanivision/whatsapi"
+			}
+		]
+	}
+}
