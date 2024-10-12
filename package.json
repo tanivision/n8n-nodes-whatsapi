@@ -1,12 +1,12 @@
 {
   "name": "n8n-nodes-whatsapi",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Connect with WhatApp HTTP API",
   "keywords": [
     "n8n-community-node-package"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://buatan.id",
   "author": {
     "name": "Haqi Ramadhani",
     "email": "haqi@buatan.id"
@@ -37,12 +37,11 @@
   "n8n": {
     "n8nNodesApiVersion": 1,
     "credentials": [
-      "dist/credentials/ExampleCredentialsApi.credentials.js",
-      "dist/credentials/HttpBinApi.credentials.js"
+      "dist/credentials/WhatsApi.credentials.js",
     ],
     "nodes": [
-      "dist/nodes/ExampleNode/ExampleNode.node.js",
-      "dist/nodes/HttpBin/HttpBin.node.js"
+      "dist/nodes/WhatsApi/WhatsApiTrigger.node.js",
+      "dist/nodes/WhatsApi/WhatsApi.node.js"
     ]
   },
   "devDependencies": {
